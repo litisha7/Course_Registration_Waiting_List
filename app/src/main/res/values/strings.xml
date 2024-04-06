@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Course Registration Waiting List</string>
+    <string name="title">Mobile Computing Waiting List</string>
+    <string name="activity_title_home">Course Registration Waiting List</string>
+    <string name="bg_msg">Empty!</string>
+    <string name="add_student">ADD Student</string>
+    <string name="new_student">New Student</string>
+    <string name="set_priority">Set Priority for student</string>
+    <string name="edit_information">Edit Student Information</string>
+    <string name="hint_enter_name">Fill in name</string>
+    <string name="hint_enter_priority">Enter Priority (Graduate/4th year/3rd year/Undergraduate/Junior/Senior)</string>
+</resources>
